@@ -32,40 +32,7 @@ Tooltips: Contextual insights to enhance data exploration.
 Business Intelligence: Insights into price fluctuations and regional variations.
 Getting Started:
 
-Open the Pakistan_Food_Prices.pbix file in Power BI Desktop.
-Review and update data sources if necessary.
-🚀 Getting Started
-To get started with the Power BI projects in this repository:
 
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/your-repo-name.git
-Open Power BI Desktop:
-
-Launch Power BI Desktop and open the .pbix files for each project.
-Explore and Customize:
-
-Review the dashboards, interact with visualizations, and customize as needed.
-Data Sources:
-
-Ensure you have access to the relevant data sources and update connection strings if necessary.
-🛠️ Tools and Technologies
-Power BI Desktop: For developing and publishing Power BI reports.
-Power Query: For data transformation and preparation.
-DAX (Data Analysis Expressions): For creating custom calculations and measures.
-Time Intelligence: For dynamic time-based calculations.
-Data Modeling: For efficient data structuring and relationships.
-📚 Documentation
-Power BI Documentation: Official documentation for learning and troubleshooting.
-DAX Guide: Comprehensive guide for DAX functions and expressions.
-🤝 Contributing
-Contributions are welcome! If you have any suggestions, improvements, or issues, please submit a pull request or open an issue.
-
-Fork the repository.
-Create a feature branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
 Create a new Pull Request.
 📝 License
